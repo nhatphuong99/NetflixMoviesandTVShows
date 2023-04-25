@@ -35,3 +35,6 @@ This tabular dataset consists of listings of all the movies and tv shows availab
 - The pie chart on the upper right of the dashboard compares percentages of movie and TV show contents on Netflix. Movie contents take almost 70% overall.
 - The bar chart on the lower left gives the top 10 most famous genres of movies and TV shows on Netflix.
 - The area chart on the lower right shows number of movies and TV shows added to Netflix by year. Number of contents added has increased dramatically since 2015 and reached the peak in 2019 and started to drop steadily after that.
+
+
+## Project link on [Tableau Public](https://public.tableau.com/app/profile/phuong.nguyen4606/viz/NetflixMoviesandTVShows_16799327173930/NetflixmoviesTVshows)
